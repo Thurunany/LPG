@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main(){
-  // 3) FUP que leia a idade e mostre maior de idade e menor de idade.
+// 3) FUP que leia a idade e mostre maior de idade e menor de idade.
     int idade;
     printf("Qual a sua idade?\n");
     scanf("%d", &idade);
